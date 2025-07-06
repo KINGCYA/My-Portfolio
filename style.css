@@ -6,8 +6,8 @@ body{
     padding: 0;
 }
 
-header {
-background: #007bff;
+header{
+background-color: #007bff;
 color: antiquewhite;
 padding: 20px;
 text-align: center;
@@ -17,9 +17,20 @@ section{
 padding: 20px;
 margin: 10px auto;
 max-width: 600px;
+background-color: silver;
+border-radius: 15px;
+box-shadow: 0 2px 5px rgba(0, 0, 0, 0.113);
 }
 
-.About {
-    padding: 20px;
+h2 {
+    color: #333;
+}
+
+footer {
+
+}
+
+.about{
+padding: 20px;
 
 }
